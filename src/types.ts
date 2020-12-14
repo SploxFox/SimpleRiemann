@@ -1,0 +1,1 @@
+export type BiFn = (x: number) => number
