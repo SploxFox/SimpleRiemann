@@ -1,1 +1,1 @@
-export type BiFn = (x: number) => number
+export type NumFn = (x: number) => number
